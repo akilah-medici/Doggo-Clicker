@@ -20,12 +20,10 @@ It's a simple clicker game made on Pygame engine for studies purpouse.
     
 ## 📁Project Structure
 <pre>
-  ```
-    main/  
-    |-- main.py
-    |-- sounds/
-    |-- sprites/
-  ```
+  main/  
+  |-- main.py
+  |-- sounds/
+  |-- sprites/
 </pre>
 
 ## ▶️How to use

@@ -2,11 +2,11 @@
 It's a simple clicker game made on Pygame engine for studies purpouse.
 ## 🚀Demo
 ### First view
-![First view](docs/iimages/image1.png)
+![First view](docs/images/image1.png)
 ### Upgrade description
-![Upgrade description](docs/iimages/image2.png)
+![Upgrade description](docs/images/image2.png)
 ### Upgrades preview
-![Upgrades preview](docs/iimages/image4.png)
+![Upgrades preview](docs/images/image4.png)
 
 ## 📦Features
   - ✅ The clicker functionality it self

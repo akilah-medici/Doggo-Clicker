@@ -33,7 +33,7 @@ You can run the game using your preferred IDE or directly via terminal:
 
 ```bash
 # Navigate to the project folder
-cd main
+cd Doggo-Clicker
 
 # Run the game
 python main.py
